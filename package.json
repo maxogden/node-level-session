@@ -20,7 +20,7 @@
   "dependencies": {
     "generic-session": "~0.0.2",
     "level-sublevel": "~5.1.1",
-    "level-ttl": "^2.1.1",
+    "level-ttl": "maxogden/node-level-ttl#sub-option",
     "xtend": "~2.1.1"
   },
   "devDependencies": {
